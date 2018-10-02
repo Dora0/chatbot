@@ -1,0 +1,4 @@
+com\example\demo\ChatbotApplication.class
+com\example\demo\MainMenuController.class
+com\example\demo\Callback.class
+com\example\demo\ServletInitializer.class
