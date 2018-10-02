@@ -28,9 +28,6 @@ public class Callback {
 		/* LINEのユーザIDを取得 */
 		String userid = event.getSource().getUserId();
 
-		System.err.println("fafa");
-
-
 		/* リクエストの文言を取得 */
 		TextMessageContent tmc = event.getMessage();
 		String text = tmc.getText();
